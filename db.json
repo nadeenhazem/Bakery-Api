@@ -82,45 +82,9 @@
     }
   ],
   "Cart": [
-    {
-      "name": "BLUEBERRY CAKES ",
-      "img": "https://i.ibb.co/Wpmkh3P/6.jpg",
-      "caption": "blueberry cake is delicious",
-      "price": 25,
-      "offer": "-10%",
-      "id": 3,
-      "quantity": 1,
-      "totalprice": 25
-    },
-    {
-      "name": "Caroot Cakes",
-      "img": "https://i.ibb.co/jrgWBKw/carrot-cakes.jpg",
-      "caption": "caroot cakes are delicious",
-      "price": 25,
-      "offer": "-20%",
-      "id": 8,
-      "quantity": 1,
-      "totalprice": 25
-    },
-    {
-      "name": "Cup cake",
-      "img": "https://i.ibb.co/fY5Fs6g/12.jpg",
-      "caption": "cup cake is delicious",
-      "price": 12,
-      "offer": "-30%",
-      "id": 10,
-      "quantity": 1,
-      "totalprice": 12
-    },
-    {
-      "name": "BLUEBERRY TART",
-      "img": "https://i.ibb.co/MgSMnLD/4.jpg",
-      "caption": "the amazing blueberry tart!",
-      "price": 30,
-      "offer": "-40%",
-      "id": 2,
-      "quantity": 4,
-      "totalprice": 120
-    }
+   
+   
+   
+    
   ]
 }
